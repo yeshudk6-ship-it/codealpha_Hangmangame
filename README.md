@@ -135,6 +135,7 @@ screenshots/
 ## 👨‍💻 Author
 
 **Name:** YESHWANTHI D
+LINKEDIN POST LINK : https://www.linkedin.com/posts/yeshu-dk-12607241a_codealpha-python-pythonprogramming-ugcPost-7476563060896342016-5CVV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGpwpS4B_byqqwn8xdjxSZ7BZlqUHLmbZa8
 
 Python Programming Internship
 
